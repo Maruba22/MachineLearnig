@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Maruba22
-- 👀 I’m interested in Python programming, Machine Learning, Deep Learning, Electronic Systems, Algoritms, Mathematics, SoftWare Development...
-- 🌱 I’m currently learning Android Kotlin development...
-- 💞️ I’m looking to collaborate on all projects in my skills interested
-- 📫 How to reach me ...
+Ce repository est pour moi une entrée dans la pratique du Machine Learning. 
+Git et GitHub sont entrain de m'éblouir. 
 
-<!---
-Maruba22/Maruba22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Un travail en équipe avec GitHub devient de plus en plus intéressant, heureusement tous mes 
+amis ont accépté et sont les premiers avec qui je travaill.
